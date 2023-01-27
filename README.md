@@ -1,2 +1,5 @@
-My FREE Code Camp Project for Front End Development Libraries certificates 
-Build a Random Quote Machine
+This is a random quote machine for FreeCodeCamp.com front end library certification.
+https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine
+
+
+DEMO: https://jonao6.github.io/random-quote-machine/
